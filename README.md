@@ -5,6 +5,7 @@ This a simple game console made using C language consisting of 4 different games
 
 ABOUT THE PROJECT:
 The game console offers 4 games:
+
 1.Roll the dice: In this game two players roll the dice to get a random number. Five times the number will be added to the SCORE.The player whose score reaches 100 wins. Everytime one player gets a 6, 6 points gets reduced from another players score.
 
 2.Tic tac toe: This is the classic tic tac toe game. Two options - player vs player and player vs computer are provided.
